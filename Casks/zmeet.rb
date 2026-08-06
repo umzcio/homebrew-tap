@@ -1,6 +1,6 @@
 cask "zmeet" do
-  version "1.15.2"
-  sha256 "c26c0bfc09f87975fb56773b92b59ee4533f370b7f7fe508b64951deb7191668"
+  version "1.15.3"
+  sha256 "63dd5d05a12d476c482788a57e5c1d503783550faffe7e42bd409709a71e22f8"
 
   url "https://github.com/umzcio/zMeet/releases/download/v#{version}/zMeet-#{version}.dmg"
   name "zMeet"

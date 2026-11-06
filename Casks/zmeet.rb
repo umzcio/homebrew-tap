@@ -20,8 +20,11 @@ cask "zmeet" do
 
   zap trash: [
     "~/.zmeet",
+    "~/Library/Caches/com.zapps.zmeet",
     "~/Library/Caches/edu.umontana.zmeet",
+    "~/Library/HTTPStorages/com.zapps.zmeet",
     "~/Library/HTTPStorages/edu.umontana.zmeet",
+    "~/Library/Preferences/com.zapps.zmeet.plist",
     "~/Library/Preferences/edu.umontana.zmeet.plist",
   ]
 
